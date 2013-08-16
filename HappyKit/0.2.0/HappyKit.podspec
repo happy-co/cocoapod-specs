@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/happy-inspector/happy-kit"
   s.license      = 'Copyright 2013 Happy Inspector Inc'
   s.authors      = { "mackross" => "andrew@happyinspector.com", "woody" => "rob@happyinspector.com", "moschou" => "james@happyinspector.com" }
-  s.source       = { :git => "http://github.com/happy-inspector/happy-kit.git", :tag => "v#{s.version}" }
+  s.source       = { :git => "https://github.com/happy-inspector/happy-kit.git", :tag => "v#{s.version}" }
   
   s.platform     = :ios, '6.0'
   s.requires_arc = true
